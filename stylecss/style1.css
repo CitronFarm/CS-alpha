@@ -48,6 +48,7 @@
   {
     display: grid;
     grid-template-columns: 300px 700px;
+    grid-template-rows: 1fr;
   }
   #L-Mgrid2
   {
