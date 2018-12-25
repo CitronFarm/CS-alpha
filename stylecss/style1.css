@@ -44,11 +44,11 @@
     text-decoration-color: black;
     font-size: 30px;
   }
-  .L-Mgrid{
+  #L-Mgrid{
     display: grid;
     grid-template-columns: 300px 700px;
   }
-  .L-Mgrid2{
+  #L-Mgrid2{
     display: grid;
     grid-template-columns: 300px 700px 500px;
   }
