@@ -46,25 +46,12 @@
   }
   #L-Mgrid
   {
-    display: -ms-grid;
     display: grid;
-    -ms-grid-columns: 300px 700px;
     grid-template-columns: 300px 700px;
-    -ms-grid-rows: 1fr;
-    grid-template-rows: 1fr;
-  }  #L-Mgrid > *:nth-child(1)
-  {
-    -ms-grid-row: 1;
-    -ms-grid-column: 1;
-  }  #L-Mgrid > *:nth-child(2)
-  {
-    -ms-grid-row: 1;
-    -ms-grid-column: 2;
   }
   #L-Mgrid2
   {
-    display: -ms-grid;
     display: grid;
-    -ms-grid-columns: 300px 700px 500px;
     grid-template-columns: 300px 700px 500px;
   }
+
