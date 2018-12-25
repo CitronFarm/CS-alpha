@@ -31,17 +31,6 @@
     margin: 70px auto auto 150px;
     font-size: 20px;
   }
-  .L-Mgrid
-  {
-    display: grid;
-    grid-template-columns: 300px 700px;
-  }
-  .L-Mgrid2
-  {
-    display: grid;
-    grid-template-columns: 300px 700px 500px;
-  }
-
   #Door{
     height: 200px;
   }
@@ -54,5 +43,15 @@
     text-align: right;
     text-decoration-color: black;
     font-size: 30px;
+  }
+  .L-Mgrid
+  {
+    display: grid;
+    grid-template-columns: 300px 700px;
+  }
+  .L-Mgrid2
+  {
+    display: grid;
+    grid-template-columns: 300px 700px 500px;
   }
 
